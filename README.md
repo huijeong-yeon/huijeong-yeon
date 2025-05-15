@@ -13,7 +13,8 @@ I bring nearly a decade of experience from the Korean Prime Minister's Office, w
 
 📁 Featured projects:
 - [cs50ai-tictactoe](https://github.com/huijeong-yeon/cs50ai-tictactoe): AI using Minimax  
-- [cs50ai-search](https://github.com/huijeong-yeon/cs50ai-search): Graph-based search (BFS, A*)  
+- [cs50ai-search](https://github.com/huijeong-yeon/cs50ai-search): Graph-based search (BFS, A*)
+- [cs50ai-traffic](https://github.com/huijeong-yeon/cs50ai-traffic): Traffic flow solver using constraint satisfaction (CSP)  
 - [statistics-and-r-harvardx](https://github.com/huijeong-yeon/statistics-and-r-harvardx): HarvardX coursework in R
   
 📫 Contact: byngohj@gmail.com
