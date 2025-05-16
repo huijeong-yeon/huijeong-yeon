@@ -1,7 +1,7 @@
 # 👩‍💻 Sophie Huijeong Yeon
 
 Deputy Director at the Prime Minister's Office, Republic of Korea 🇰🇷  
-Currently a 2025-2026 Hubert H. Humphrey Fellow
+Currently a 2025-2026 Hubert H. Humphrey Fellow  
 pursuing academic and professional development in public policy, science & technology governance, and data science
 
 🔍 Currently learning:
