@@ -14,7 +14,7 @@ pursuing academic and professional development in public policy, science & techn
   Built a foundation in descriptive statistics, probability, and simulation using R
 
 📁 Featured projects:
-- [statistics-and-r-harvardx](https://github.com/huijeong-yeon/statistics-and-r-harvardx):  
+- [data-science-with-R-harvardx](https://github.com/huijeong-yeon/data-science-with-R-harvardx):  
   Central repository for R-based coursework from both **HarvardX's Data Science Professional Certificate**  
   and **PH525.1x Statistics and R**.  
   Includes exploratory data analysis, hypothesis testing, visualization, and foundational R programming exercises.
