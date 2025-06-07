@@ -1,22 +1,49 @@
-# 👩‍💻 Sophie Huijeong Yeon
+# 🧠 Huijeong Yeon | Exploring Emotion, AI, and Mental Health
 
-Deputy Director at the Prime Minister's Office, Republic of Korea 🇰🇷  
-Currently a 2025-2026 Hubert H. Humphrey Fellow  
-pursuing academic and professional development in public policy, science & technology governance, and data science
+Public sector professional in South Korea since 2017,  
+currently serving at the **Prime Minister's Office (2018–present)**.  
+On sabbatical as a **2025–2026 Fulbright Humphrey Fellow**,  
+focusing on the intersection of **technology, emotion, and social design** — particularly in mental health contexts.
 
-🔍 Currently learning:
-- *Data Science Professional Certificate* – HarvardX  
-  A rigorous 9-course program focused on statistical thinking, R programming, data wrangling, and machine learning  
-  (taught by Prof. Rafael Irizarry)
+---
 
-✅ Completed:
-- *Statistics and R* – HarvardX (PH525.1x)  
-  Built a foundation in descriptive statistics, probability, and simulation using R
+## 🌱 Project: Emotion Mirror
 
-📁 Featured projects:
-- [data-science-with-R-harvardx](https://github.com/huijeong-yeon/data-science-with-R-harvardx):  
-  Central repository for R-based coursework from both **HarvardX's Data Science Professional Certificate**  
-  and **PH525.1x Statistics and R**.  
-  Includes exploratory data analysis, hypothesis testing, visualization, and foundational R programming exercises.
-  
+**What if an AI could be your first listener?**
+
+This project explores the idea of using generative AI to provide **judgment-free, anonymous emotional support**,  
+especially for people who feel unable to fully open up to human counselors or therapists.
+
+🔹 Core ideas:
+- Free-form, private AI-based conversations  
+- Automatic emotional summaries  
+- Optional sharing with psychiatrists or clinicians  
+- Bridging the gap between self-expression and formal care
+
+📝 [Read the Medium article](https://medium.com/@byngohj/what-if-an-ai-could-be-your-first-listener-73258583c3ee)
+
+---
+
+## 🎓 Education
+
+- **Seoul National University**  
+  - BA in Sociology & Agricultural and Resource Economics (2016)  
+  - MPA in Public Administration (2020)  
+  Academic background in social systems, policy, and human behavior.  
+  Now applying this foundation toward technology and mental health innovation.
+
+---
+
+## 📘 Completed Learning
+
+- **Data Science Professional Certificate** – HarvardX  
+  Completed full 9-course program on statistics, R programming, machine learning, and data wrangling  
+  *(Instructor: Prof. Rafael Irizarry)*
+
+- **Statistics and R** – HarvardX (PH525.1x)  
+  Built a foundation in descriptive statistics, probability, and simulation using R  
+  *(Instructor: Prof. Rafael Irizarry)*
+
+---
+
 📫 Contact: byngohj@gmail.com
