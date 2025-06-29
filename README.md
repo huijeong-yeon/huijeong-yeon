@@ -51,7 +51,7 @@ An exploratory concept for AI-supported, judgment-free emotional expression — 
 
 ## Technical Learning
 
-- **HarvardX – Data Science Professional Certificate**  
+- **Data Science Professional Certificate** – HarvardX    
   9-course program in statistics, R programming, machine learning, and data visualization  
   *(Instructor: Rafael Irizarry)*
 
