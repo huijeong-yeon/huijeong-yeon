@@ -53,14 +53,19 @@ An exploratory concept for AI-supported, judgment-free emotional expression — 
 
 - **HarvardX – Data Science Professional Certificate**  
   9-course program in statistics, R programming, machine learning, and data visualization  
-  *(Instructor: Prof. Rafael Irizarry)*
+  *(Instructor: Rafael Irizarry)*
 
 - **Statistics and R (PH525.1x)** – HarvardX  
-  Foundation in simulation, probability, and statistical inference with R  
+  Foundation in simulation, probability, and statistical inference with R
+  *(Instructor: Rafael Irizarry)*
 
-📁 All coursework and project code available on this GitHub
+- **CS50’s Introduction to Programming with Python** – HarvardX  
+  Intensive course on Python fundamentals, control flow, data structures, and practical applications  
+  *(Instructor: David J. Malan)*
+
+All coursework and project code available on this GitHub
 
 ---
 
-📫 Contact: byngohj@gmail.com  
+Contact: byngohj@gmail.com  
 
